@@ -13,4 +13,4 @@ Each folder contains the following 5 videos:
 | Method          | Apple (Latency / Speedup) | Block (Latency / Speedup) | Paper (Latency / Speedup) | Spin (Latency / Speedup) | Teddy (Latency / Speedup) |
 |-----------------|--------------------------|---------------------------|---------------------------|--------------------------|---------------------------|
 | TrajectoryCraft | 256.1 / 1.0              | 263.2 / 1.0               | 264.5 / 1.0               | 296.7 / 1.0              | 276.6 / 1.0               |
-| Turbo4DGen      | 52.3 / 4.9               | 51.6 / 5.1                | 56.3 / 4.7                | 57.1 / 5.2               | 57.6 / 4.8                |
+| Ours      | 52.3 / 4.9               | 51.6 / 5.1                | 56.3 / 4.7                | 57.1 / 5.2               | 57.6 / 4.8                |
